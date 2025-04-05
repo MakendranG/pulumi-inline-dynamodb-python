@@ -32,7 +32,7 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone this repo
 
 ```bash
-git clone https://github.com/your-username/pulumi-inline-dynamodb-python.git
+git clone https://github.com/MakendranG/pulumi-inline-dynamodb-python.git
 cd pulumi-inline-dynamodb-python
 ```
 
