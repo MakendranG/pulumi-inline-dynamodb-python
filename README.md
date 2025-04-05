@@ -1,6 +1,4 @@
-Sure! Here's the **complete `README.md`** file in clean Markdown format for your GitHub repository:
 
-```markdown
 # 🧱 Pulumi Inline DynamoDB Deployment (Python)
 
 This project demonstrates how to deploy an **AWS DynamoDB Table** using [Pulumi Automation API](https://www.pulumi.com/automation/) — entirely inline, with a single Python script.
@@ -130,21 +128,3 @@ This is useful for:
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
-## 💬 Questions?
-
-Feel free to open an issue or reach out on [Pulumi's Community Slack](https://slack.pulumi.com)!
-
----
-
-> *This project is a submission for the [Pulumi Deploy and Document Challenge](https://dev.to/challenges/pulumi): Get Creative with Pulumi and GitHub*
-```
-
----
-
-Let me know if you'd like this converted into an actual GitHub repository or want to add CI/CD workflows with GitHub Actions.
